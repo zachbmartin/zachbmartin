@@ -1,5 +1,5 @@
 <h1>Hi, I'm Zach!
-  Educator and Information Security Student
+
 
 <h2>👨‍💻 IT Projects:</h2>
 - <b>Active Directory Lab </b>
