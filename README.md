@@ -2,8 +2,8 @@
 
 
 <h2>👨‍💻 IT Projects:</h2>
-- <b>Active Directory Lab </b>
-  - [Monitoring Brute Force Attack logs on Splunk] (INSERTLINK)
+- <b>Active Directory/Splunk Lab </b>
+  - [Conducted Brute Force Attack w/ Kali Linux] (INSERTLINK)
 
 <h2> 🤳 Connect with me:</h2>
 [linkedin]: https://www.linkedin.com/in/zachary-martin-0a7053190
