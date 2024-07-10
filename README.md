@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1>Hi, I'm Zach!
+  Educator and Information Security Student
 
-<!--
-**zachbmartin/zachbmartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 IT Projects:</h2>
+- <b>Active Directory Lab </b>
+  - [Monitoring Brute Force Attack logs on Splunk] (INSERTLINK)
 
-Here are some ideas to get you started:
+<h2> 🤳 Connect with me:</h2>
+[linkedin]: https://www.linkedin.com/in/zachary-martin-0a7053190
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 📕 Additional Info</h2>
+- 🔭 I’m currently working on my Master's in Information Security at Cal Poly Pomona 
+- 🌱 I’m currently learning python and SQL
+- ⚡ Fun fact: I majored in Music in my undergraduate studies and my first dog's name was Elvis
