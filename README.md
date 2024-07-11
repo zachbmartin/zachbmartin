@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 - <b>Active Directory/Splunk Lab </b>
-  - [Conducted Brute Force Attack w/ Kali Linux] (https://github.com/zachbmartin/Active-Directory-Lab/blob/main/README.md)
+  -(https://github.com/zachbmartin/Active-Directory-Lab/blob/main/README.md)
 
 <h2> 🤳 Connect with me:</h2>
 [linkedin]: https://www.linkedin.com/in/zachary-martin-0a7053190
