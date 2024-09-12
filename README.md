@@ -15,4 +15,4 @@
 <h2> 📕 Additional Info</h2>
 - 🔭 I’m currently working on my Master's in Information Security at Cal Poly Pomona 
 - 🌱 I’m currently learning python and SQL
-- ⚡ Education: BA in Music, CompTIA Network+, CompTIA Security+ (In progress)
+- ⚡ Education: BA in Music, CompTIA Network+, CompTIA Security+ 
